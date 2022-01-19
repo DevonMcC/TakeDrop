@@ -4,6 +4,7 @@ Two command-line executables to take or drop a number of characters or lines fro
 For example, if our file "hi.txt" consists of these two CRLF-delimited lines:
   
 Hello,
+
 world!
   
 then
