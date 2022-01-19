@@ -9,11 +9,11 @@ world!
   
 then
 
-   take 4 0 hi.txt
+         take 4 0 hi.txt
    
 returns "Hell", and 
 
-   drop 9 0 hi.txt
+         drop 9 0 hi.txt
    
 returns "orld!"; the "0" specifies working on scalars (characters).
 Specifying this 2nd argument as "1" works on lines, so 
