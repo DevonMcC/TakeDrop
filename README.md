@@ -2,10 +2,10 @@
 Two command-line executables to take or drop a number of characters or lines from a file, showing the result on STDIO.
 
 For example, if our file "hi.txt" consists of these two CRLF-delimited lines:
-
+  
 Hello,
 world!
-
+  
 then
    take 4 0 hi.txt
 returns "Hell", and 
